@@ -687,7 +687,7 @@ http://homeip.biz/FR_RMCSPORT2HD/mpegts?token=1d4fd74f2c81e2a0c714d094c11ec34c
 http://homeip.biz/FR_RMCSPORT3HD/mpegts?token=e149046101bda38c8fba76bf209cc492
 
 
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Foot+ 24
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Foot+ 24/24
 http://homeip.biz/FR_FOOT24HD/mpegts?token=8998bf655ada2e926662099c9da0be56
 
 
