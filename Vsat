@@ -40,7 +40,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=721865&exten
 
 
 #EXTINF:-1 tvg-logo="https://resize.programme-television.ladmedia.fr/img/var/premiere/storage/images/tele-7-jours/news-tv/la-rentree-d-arte-vive-le-bimedia-4013022/74018493-2-fre-FR/La-rentree-d-Arte-vive-le-bimedia.png" group-title="GENERALISTE",Arte
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507621&extension=ts&play_token=3lawbAqIOf
+http://homeip.biz/FR_ARTEHDFR/tracks-v1a1/mono.m3u8?token=a3becef6d022da82b82a466d64bcc38e
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="GENERALISTE",13ème rue
@@ -95,10 +95,10 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=526138&exten
 
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="GENERALISTE",Rtl9
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=526137&extension=ts&play_token=aMVZTirbqs
+http://homeip.biz/FR_RTL9HD/mpegts?token=81525ee875ff4f2121e438436d540a12
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="GENERALISTE",TF1
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507627&extension=ts&play_token=PoaK3uIYBq
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="GENERALISTE",TF1
+http://homeip.biz/FR_TF1HD/tracks-v1a1/mono.m3u8?token=9844fa493151127f4a550c5e8f4c05dd
 
 
 #EXTINF:-1 tvg-logo="https://m.webmaster-gratuit.com/pict/direct-tf1films.png" group-title="GENERALISTE",TF1 Séries Films
@@ -112,7 +112,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507626&exten
 http://homeip.biz/FR_FRANCE3HDh/tracks-v1a1/mono.m3u8?token=df399fb27432e03e6d0cea3d32fecfd2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/France_4_logo_2011.png" group-title="GENERALISTE",France 4
-http://homeip.biz/FR_FRANCE4HDh/tracks-v1a1/mono.m3u8?token=9fbd91bc44db1f6d905ecae2a34eaa73
+http://homeip.biz/FR_FRANCE4HDh/tracks-v1a1/mono.m3u8?token=0182746e20691edd57aaec2ed99cd9e7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/France_5_logo_antenne_%282008%29.png" group-title="GENERALISTE",France 5
 http://homeip.biz/FR_FRANCE5HD/tracks-v1a1/mono.m3u8?token=0e814a9b56ab6468c5f34c6a0a86680a
@@ -120,7 +120,7 @@ http://homeip.biz/FR_FRANCE5HD/tracks-v1a1/mono.m3u8?token=0e814a9b56ab6468c5f34
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="GENERALISTE",M6
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507466&extension=ts&play_token=HveQlHpwJw
+http://homeip.biz/FR_M6HD/index.m3u8?token=f375abfb1e3bcc95f3e8443bb594b1c4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="MUSIC",M6 Music
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507300&extension=ts&play_token=6FKFpl7uNQ
@@ -135,7 +135,7 @@ http://homeip.biz/FR_C8HD/tracks-v1a1/mono.m3u8?token=dfd5a49924be401becb0aaf1a8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="GENERALISTE",6Ter
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507452&extension=ts&play_token=CyYnMRdpua
+http://homeip.biz/FR_6TerFHD/tracks-v1a1/mono.m3u8?token=d20f246ad58b1b2fd5bf25d23adf707c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="GENERALISTE",W9
 http://homeip.biz/FR_W9/mpegts?token=658b87bd0893d63bac671ed95c1d411a
@@ -152,11 +152,6 @@ http://homeip.biz/FR_TMC/mpegts?token=8ddeb55b1f95a80db8b6f75954a5e152
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/1024px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="GENERALISTE",Télé-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1517057409.png" group-title="GENERALISTE",RTS Un
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507446&extension=ts&play_token=mP7b9JcVIn
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/RTS2_logo_20.png" group-title="GENERALISTE",RTS Deux
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507445&extension=ts&play_token=Hm51XhjNkk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="GENERALISTE",NRJ 12
 http://homeip.biz/FR_NRJ12HD/tracks-v1a1/mono.m3u8?token=c34b1e573aaef404422de4d80d717ddb
