@@ -105,8 +105,7 @@ http://homeip.biz/FR_TF1HD/tracks-v1a1/mono.m3u8?token=9844fa493151127f4a550c5e8
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507610&extension=ts&play_token=NkOrVyXNoC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="GENERALISTE",France 2
-http://homeip.biz/FR_FRANCE2HDH/tracks-v1a1/mono.m3u8?token=cda4c0ed7ecb0af7436ea12effef00e9
-
+http://homeip.biz/FR_FRANCE2HDH/tracks-v1a1/mono.m3u8?token=6901c0789a0b4963321f5118425d9caa
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="GENERALISTE",France 3
 http://homeip.biz/FR_FRANCE3HDh/tracks-v1a1/mono.m3u8?token=df399fb27432e03e6d0cea3d32fecfd2
@@ -281,7 +280,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507394&exten
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507396&extension=ts&play_token=sJrx1KndjN
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="Sport", Bein SPORTS 1
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507542&extension=ts&play_token=fqR5WZ8Kwq 
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507698&extension=ts&play_token=qdiKBtOgkD 
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="Sport",Bein SPORTS 2
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507541&extension=ts&play_token=n5AjXWmYt6
