@@ -130,7 +130,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507300&exten
 http://195.24.89.82/VH1_SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_C8_2016.svg/2560px-Logo_C8_2016.svg.png" group-title="GENERALISTE",C8
-http://homeip.biz/FR_C8HD/tracks-v1a1/mono.m3u8?token=dfd5a49924be401becb0aaf1a8b7df25
+http://homeip.biz/FR_C8HD/tracks-v1a1/mono.m3u8?token=0897e621b10a0c5a4920675078c735f3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="GENERALISTE",6Ter
