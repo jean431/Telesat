@@ -276,17 +276,17 @@ https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Canal+ Sport 1
 http://homeip.biz/FR_CANALplus/mpegts?token=75f429a8e152a62d5a9b346d3567ba82
 
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Canal+ Sport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="Sport",Canal+ Sport 2
 http://homeip.biz/AF_CANL2/mpegts?token=910f9657787327caf3e57d2db4238afe
 
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Canal+ Sport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Canal%2B_Sport_3_PL.svg" group-title="Sport",Canal+ Sport 3
 http://homeip.biz/AF_CANL3/mpegts?token=2537527b441bea813c33b188f333ec19
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Canal+ Premier League
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507394&extension=ts&play_token=YaMN1npmdu
 
 
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Infosport
+#EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="Sport",Infosport
 http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="Sport", Bein SPORTS 1
