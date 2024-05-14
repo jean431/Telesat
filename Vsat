@@ -198,7 +198,7 @@ http://ar116.ab-cdn.com/live/128/index.m3u8?t=Z1AbxRY1dAmyoQM14d0iiA&e=171452501
 http://livetv.ktv.zone/36/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="DOCUMENTAIRE",Maison & Travaux TV
+#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="DOCUMENTAIRE",MaisonEtTravaux.fr
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/1200px-B_SMART_logo.png" group-title="INFO",BSmartTV
