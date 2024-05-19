@@ -270,6 +270,11 @@ http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb9
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="Sport", Super Sport 1
 http://homeip.biz/AF_SUP1/mpegts?token=508fc96a6af351967698aaadbffb05ed 
 
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="Sport",Super Sport Variety 1
+http://homeip.biz/AF_SV3/mpegts?token=e660fc0e36b4c4d74ca32ab665b63bb7
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 1
@@ -295,8 +300,6 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507394&exten
 http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
 
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="Sport",Bein SPORTS 2
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507541&extension=ts&play_token=n5AjXWmYt6
 
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",RMC Sport 1
