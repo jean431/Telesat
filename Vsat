@@ -270,12 +270,19 @@ http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb9
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="Sport", Super Sport 1
 http://homeip.biz/AF_SUP1/mpegts?token=508fc96a6af351967698aaadbffb05ed 
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="Sport",Super Sport Variety 1
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="Sport",Super SportVariety 1
 http://homeip.biz/AF_SV3/mpegts?token=e660fc0e36b4c4d74ca32ab665b63bb7
 
 
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="Sport",SuperSport Variety 2
+http://homeip.biz/AF_SV2TIM/mpegts?token=968aa493e397981bd9ed5f40146d4e87
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",Suoersport GrandStand
+http://homeip.biz/AF_S_G/tracks-v1a1/mono.m3u8?token=819cf2fc918d35599b6d3e1812e3d2a9
 
 
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="Sport",SuperSport Rugby
+http://homeip.biz/Nano_SP_Rug/tracks-v1a1/mono.m3u8?token=532f5ea8511d42d02ee98c912eab9759
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
