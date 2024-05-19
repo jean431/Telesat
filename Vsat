@@ -267,6 +267,11 @@ https://voozmedia.fun/stream/christlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mljgjnnhejtw.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/id:a75166cbd3df23e55d8e585a9a8c13bb/https://sports.mymarketplace.co.ke/7lxofw1656964140.png" group-title="Sport",Supersport Football
 http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb92a93acdb2f6a
 
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="Sport", Super Sport 1
+http://homeip.biz/AF_SUP1/mpegts?token=508fc96a6af351967698aaadbffb05ed 
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 
@@ -289,8 +294,6 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507394&exten
 #EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="Sport",Infosport
 http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
 
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT1.png" group-title="Sport", Bein SPORTS 1
-http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507698&extension=ts&play_token=qdiKBtOgkD 
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/france/BEINSPORT2.png" group-title="Sport",Bein SPORTS 2
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:00:D5:B7&stream=507541&extension=ts&play_token=n5AjXWmYt6
