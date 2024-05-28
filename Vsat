@@ -185,6 +185,8 @@ http://homeip.biz/AF_CANL3/mpegts?token=2537527b441bea813c33b188f333ec19
 http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",Beinsports 1
+http://50.7.156.146:9000/play/live/0A58C71A35E54A1A.ts?id=WDjFzr409EfvatgldN1h1bOvYQs2IUqVSkWD0zia&uid=119248310675&apt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTY5MDA4MjF9.DnUSSSDGjLSN0K-OMiDC9comX9vjYz186G0xd_kViBQ&old=true
 
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 1
