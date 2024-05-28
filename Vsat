@@ -129,36 +129,11 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/88.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/1280px-Logo_Ch%C3%A9rie_25.svg.png" group-title="Live",Chérie 25
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/99.m3u8
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Live",MaisonEtTravaux
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Live",GULLI
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/90.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="Live",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -169,14 +144,8 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="Live",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="Live",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://mljgjnnhejtw.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/id:a75166cbd3df23e55d8e585a9a8c13bb/https://sports.mymarketplace.co.ke/7lxofw1656964140.png" group-title="Live",Supersport Football
 http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb92a93acdb2f6a
@@ -208,8 +177,6 @@ http://homeip.biz/AF_CANL2/mpegts?token=910f9657787327caf3e57d2db4238afe
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Canal%2B_Sport_3_PL.svg" group-title="Live",Canal+ Sport 3
 http://homeip.biz/AF_CANL3/mpegts?token=2537527b441bea813c33b188f333ec19
 
-
-
 #EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="Live",Infosport
 http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
 
@@ -220,7 +187,7 @@ http://homeip.biz/FR_INFOSPRTHD/mpegts?token=6f58299b8ba9a75676f11c7d5680fa97
 http://homeip.biz/FR_RMCSPORT1HD/mpegts?token=c01ad747e2984aa493ca3fda56718a3a
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 2
-http://homeip.biz/FR_RMCSPORT2HD/mpegts?token=1d4fd74f2c81e2a0c714d094c11ec34c
+http://50.7.156.146:9000/play/live/5D94D8813C9F7A09.ts?id=NzGHZQXtBIoqoIYA2QNYZBxVIu5GgUmiJvw8YdYc&uid=119248310675&apt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTY4OTk3Nzd9.oWeNBGFjfNpcE704jHUH4UBCgbN34nJDOSXQaCb-iFo&old=true
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport Live  3
 http://homeip.biz/FR_RMCSPORT3HD/mpegts?token=e149046101bda38c8fba76bf209cc492
