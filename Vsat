@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
-http://82.115.12.36:8080/live/play/VFRKV1REQk5WbEEzUkU1NE0yUk9NSEJVZWtKbk1uRkRkVmR2ZVdOdE5sSnVMMWhGT1dSTk5YTXdUVDA9/507561
+http://exprestv.win/play/live.php?mac=00:1A:79:0C:0A:98&stream=507561&extension=ts&play_token=TiE1LoldFk&sn2=
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
