@@ -121,6 +121,10 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="Live",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",L'Equipe
+https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/94.m3u8
+
 #EXTINF:-1 tvg-logo="https://mljgjnnhejtw.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/id:a75166cbd3df23e55d8e585a9a8c13bb/https://sports.mymarketplace.co.ke/7lxofw1656964140.png" group-title="Live",Supersport Football
 http://homeip.biz/AF_S_FOOTIMER/tracks-v1a1/mono.m3u8?token=c9b864cd98e13bd72fb92a93acdb2f6a
 
@@ -173,8 +177,15 @@ http://homeip.biz/FR_RMCSPORT3HD/mpegts?token=e149046101bda38c8fba76bf209cc492
 http://homeip.biz/FR_FOOT24HD/mpegts?token=8998bf655ada2e926662099c9da0be56
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Live",France 24
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/807.m3u8
+
+#EXTINF:-1 https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="Live",Lci
+https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="Live",RMC Story
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/96.m3u8
