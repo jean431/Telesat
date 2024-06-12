@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv.xml,http://obsfullhd.tv:25461/xmltv.php?username=Dominique&password=q6RhSRgBgG"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/fr.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv.xml,http://obsfullhd.tv:25461/xmltv.php?username=Dominique&password=q6RhSRgBgG"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Live",MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
@@ -27,6 +27,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dc
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FN9zwLNX0AINtaU.png" group-title="Live",Frequence Novelas
 https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20240507T094257SQUARE.png" group-title="Live",Frequence Novelas
+https://i.mjh.nz/SamsungTVPlus/FR1100001V1.m3u8
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
@@ -194,9 +197,12 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/96.m3u8
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/98.m3u8
 
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Live",ADN
-https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+https://i.mjh.nz/SamsungTVPlus/FRBD5100001ZA.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.abystyle.com/img/c/m/17_S_One_Piece.jpg" group-title="Live",One Peace
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20221214T045103SQUARE.png_20221214045104.png" group-title="Live",Jellytoon
+https://i.mjh.nz/SamsungTVPlus/FRBB4600001MQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG.png" group-title="Live",One Peace
 https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
 
 
