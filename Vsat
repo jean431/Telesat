@@ -18,7 +18,7 @@ https://hls.mbconline.xyz/live/MBC5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TiVi5_monde.png" group-title="Live",Tivi 5
 https://hls.mbconline.xyz/live/education/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",NOVELAS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title="Live",NOVELAS TV
 http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/93855.ts
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" group-title="Live",Televisa TeleNovelas
@@ -50,7 +50,7 @@ http://homeip.biz/FR_CANALCINMA/mpegts?token=44aca8053dafe9e95cf273e1199e1d0e
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
-http://homeip.biz/FR_RTL9HD/mpegts?token=67849f939340679ffd8afce37744f6f9
+http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/127203.ts
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
