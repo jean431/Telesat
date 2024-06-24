@@ -18,9 +18,11 @@ https://hls.mbconline.xyz/live/MBC5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TiVi5_monde.png" group-title="Live",Tivi 5
 https://hls.mbconline.xyz/live/education/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",NOVELAS TV
+http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/93855.ts
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" group-title="Live",Televisa TeleNovelas
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300031ZC_20220323T080249SQUARE.png_20220323080251.png" group-title="Live",Stormcast Novelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -34,15 +36,8 @@ https://i.mjh.nz/SamsungTVPlus/FR1100001V1.m3u8
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
-
-
 #EXTINF:-1 tvg-logo="https://resize.programme-television.ladmedia.fr/img/var/premiere/storage/images/tele-7-jours/news-tv/la-rentree-d-arte-vive-le-bimedia-4013022/74018493-2-fre-FR/La-rentree-d-Arte-vive-le-bimedia.png" group-title="Live",Arte
 http://homeip.biz/FR_ARTEHDFR/tracks-v1a1/mono.m3u8?token=a3becef6d022da82b82a466d64bcc38e
-
-
-
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",NOVELAS TV
-http://homeip.biz/Fr_NOVELASTVHD/mpegts?token=f901d2eba6f76dde279b5f9eeaf804ca
 
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Series
@@ -111,6 +106,18 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/90.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="Live",Mangas
 http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/127159.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Toonami_Logo_2019.png" group-title="Live",Toonami
+http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/127142.ts
+
+#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Live",ADN
+https://i.mjh.nz/SamsungTVPlus/FRBD5100001ZA.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20221214T045103SQUARE.png_20221214045104.png" group-title="Live",Jellytoon
+https://i.mjh.nz/SamsungTVPlus/FRBB4600001MQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG.png" group-title="Live",One Piece
+https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="Live",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -203,14 +210,6 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/96.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/640px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Live",RMC Découverte
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/98.m3u8
 
-#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Live",ADN
-https://i.mjh.nz/SamsungTVPlus/FRBD5100001ZA.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20221214T045103SQUARE.png_20221214045104.png" group-title="Live",Jellytoon
-https://i.mjh.nz/SamsungTVPlus/FRBB4600001MQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG.png" group-title="Live",One Piece
-https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/640px-CGTN_-_fran%C3%A7ais.png" group-title="Live",CGTN Français
