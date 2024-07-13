@@ -39,6 +39,8 @@ https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3
 #EXTINF:-1 tvg-logo="https://resize.programme-television.ladmedia.fr/img/var/premiere/storage/images/tele-7-jours/news-tv/la-rentree-d-arte-vive-le-bimedia-4013022/74018493-2-fre-FR/La-rentree-d-Arte-vive-le-bimedia.png" group-title="Live",Arte
 http://homeip.biz/FR_ARTEHDFR/tracks-v1a1/mono.m3u8?token=a3becef6d022da82b82a466d64bcc38e
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png" group-title="Live",Canal+
+http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/635223.ts
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Series
 http://homeip.biz/FR_CanalPLusSeries/tracks-v1a1/mono.m3u8?token=face682907444efb473a2bed5b10c0c3
@@ -50,7 +52,8 @@ http://homeip.biz/FR_CANALCINMA/mpegts?token=44aca8053dafe9e95cf273e1199e1d0e
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
-http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/120299.ts
+http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/127203.ts
+
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
