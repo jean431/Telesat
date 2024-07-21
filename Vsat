@@ -108,7 +108,7 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/90.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="Live",Mangas
-http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/127159.ts
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127586&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Toonami_Logo_2019.png" group-title="Live",Toonami
 http://www.sansat.net:25461/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/127142.ts
