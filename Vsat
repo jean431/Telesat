@@ -40,7 +40,7 @@ https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Action_Logo.png" group-title="Live",Action
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127515&extension=ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="Live",13eme Rue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="Live",13ème Rue
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127454&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png" group-title="Live",Canal+
