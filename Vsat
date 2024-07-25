@@ -127,7 +127,7 @@ http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127482&exte
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127586&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Game_One_PL.png" group-title="Live",Gameone
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Game_One_PL.png" group-title="Live",Game One
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127582&extension=ts
 
 
