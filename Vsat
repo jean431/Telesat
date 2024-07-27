@@ -173,7 +173,7 @@ http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127536&exte
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/199966.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Live",Canal+ Premier League
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127538&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126840.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",beIN SPORTS 1
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127016.ts
