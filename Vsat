@@ -19,7 +19,7 @@ https://hls.mbconline.xyz/live/MBC5/index.m3u8
 https://hls.mbconline.xyz/live/education/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title="Live",NOVELAS
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127326&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127267.ts
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" group-title="Live",Televisa TeleNovelas
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -38,28 +38,33 @@ https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Action_Logo.png" group-title="Live",Action
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127515&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127271.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="Live",13ème Rue
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127454&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127201.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png" group-title="Live",Canal+
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127502&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/635223.ts
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Series
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127505&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126835.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_de_Cin%C3%A9Cin%C3%A9ma_Famiz.png" group-title="Live",Cine+ Family
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126836.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_de_Cin%C3%A9Cin%C3%A9ma_Famiz.png" group-title="Live",Cine+ Famiz
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127508&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127258.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_C%2BCIN%C3%89MA%28S%29.jpg/220px-Logo_C%2BCIN%C3%89MA%28S%29.jpg" group-title="Live",Canal+ Cinema
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127503&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126838.ts
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/20-204704_logopedia10-teva-hd-png-download.png" group-title="Live",Téva
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127520&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127203.ts
 
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
@@ -115,20 +120,23 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/90.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="Live",Mangas
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127587&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127159.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Teletoon_2023.png" group-title="Live",Teletoon
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127481&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127153.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Live",Piwi+
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127482&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127152.ts
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/990/7/png-clipart-j-one-japan-television-channel-manga-japan-television-text.png" group-title="Live",J one
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127586&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127160.ts
 
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/990/7/png-clipart-j-one-japan-television-channel-manga-japan-television-text.png" group-title="Live",Toonamie
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127029.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Game_One_PL.png" group-title="Live",Game One
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127582&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127161.ts
 
 
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Live",ADN
@@ -153,7 +161,7 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="Live",Infosport
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127559&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127029.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",L'Equipe
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/94.m3u8
@@ -162,22 +170,22 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/94.m3u8
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127536&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="Live",Canal+ Sport 2
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127477&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/199966.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Live",Canal+ Premier League
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127538&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",beIN SPORTS 1
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127527&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127016.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Live",beIN SPORTS 2
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127528&extension=ts
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 1
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127402&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127000.ts
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 2
-http://50.7.156.146:9000/play/live/5D94D8813C9F7A09.ts?id=NzGHZQXtBIoqoIYA2QNYZBxVIu5GgUmiJvw8YdYc&uid=119248310675&apt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTY4OTk3Nzd9.oWeNBGFjfNpcE704jHUH4UBCgbN34nJDOSXQaCb-iFo&old=true
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127001.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="Live",Foot+ 24/24
