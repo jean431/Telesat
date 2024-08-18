@@ -181,14 +181,20 @@ http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126840.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",beIN SPORTS 1
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127016.ts
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Live",beIN SPORTS 2
 http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127528&extension=ts
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 1
-http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127000.ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/658067.ts
+
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 2
-http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127001.ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/658068.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="Live",+ Foot
