@@ -64,7 +64,9 @@ http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127258.ts
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126838.ts
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/20-204704_logopedia10-teva-hd-png-download.png" group-title="Live",Téva
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127168.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127203.ts
