@@ -33,11 +33,8 @@ https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20240507T094257SQUARE.png" group-title="Live",Passion Bollywood
 https://jmp2.uk/SamsungTVPlus/FR1100001V1.m3u8
 
-
-
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Action_Logo.png" group-title="Live",Action
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127271.ts
@@ -51,35 +48,20 @@ http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/659289.ts
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Series
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126814.ts
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_de_Cin%C3%A9Cin%C3%A9ma_Famiz.png" group-title="Live",Canal+ Kids
-http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126836.ts
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="Live",Canal+ KIDS
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/199685.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_de_Cin%C3%A9Cin%C3%A9ma_Famiz.png" group-title="Live",Cine+ Famiz
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127258.ts
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_C%2BCIN%C3%89MA%28S%29.jpg/220px-Logo_C%2BCIN%C3%89MA%28S%29.jpg" group-title="Live",Canal+ Cinema
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/169175.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_C%2BCIN%C3%89MA%28S%29.jpg/220px-Logo_C%2BCIN%C3%89MA%28S%29.jpg" group-title="Live",Canal+ Formule 1
-http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126838.ts
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/20-204704_logopedia10-teva-hd-png-download.png" group-title="Live",Téva
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127168.ts
 
-
-
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127203.ts
-
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
@@ -149,6 +131,12 @@ http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127160.ts
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/990/7/png-clipart-j-one-japan-television-channel-manga-japan-television-text.png" group-title="Live",TOONAMI
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127142.ts
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG.png" group-title="Live",One Piece
+https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Game_One_PL.png" group-title="Live",Game One
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127161.ts
 
@@ -160,8 +148,6 @@ https://jmp2.uk/SamsungTVPlus/FRBD5100001ZA.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20221214T045103SQUARE.png_20221214045104.png" group-title="Live",Jellytoon
 https://i.mjh.nz/SamsungTVPlus/FRBB4600001MQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG.png" group-title="Live",One Piece
-https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="Live",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -193,12 +179,12 @@ http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126835.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",beIN SPORTS 1
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127016.ts
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Live",beIN SPORTS 2
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:60:3e:54&stream=1127528&extension=ts
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127017.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/Logo_C%2BFormule_1.png" group-title="Live",Canal+ Formule 1
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126838.ts
+
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 1
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/658067.ts
@@ -207,10 +193,11 @@ http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/658067.ts
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 2
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/658068.ts
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="Live",+ Foot
 http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/659299.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/C%2BTop_14.png" group-title="Live",Canal+ Top14 Rugby
+http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/126836.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
@@ -227,11 +214,8 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/96.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/640px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Live",RMC Découverte
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/98.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/640px-CGTN_-_fran%C3%A7ais.png" group-title="Live",CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/01/10/PlutoTV_Paranormal_Channel_1080x1080_Square2-qnhwyj56.png" group-title="Live",Paranormal
 https://i.mjh.nz/PlutoTV/5f8ed9461b35690007a0bc3a-alt.m3u8
@@ -253,7 +237,6 @@ https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="Live",Rakuten Spotlight France 
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV BBC Doctor Who France 
 https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
