@@ -19,7 +19,7 @@ https://hls.mbconline.xyz/live/MBC5/index.m3u8
 https://hls.mbconline.xyz/live/education/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title="Live",NOVELAS
-http://www.sansat.net:25461/live/02025890140187/GEHXVZC36J6HCZB/127267.ts
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1990.ts
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" group-title="Live",Televisa TeleNovelas
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -35,6 +35,11 @@ https://jmp2.uk/SamsungTVPlus/FR1100001V1.m3u8
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/Logo_R%C3%A9seau_Outre-Mer_premi%C3%A8re1er.png" group-title="Live",Réunion 1ere
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/95248.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Action_Logo.png" group-title="Live",Action
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/36.ts
