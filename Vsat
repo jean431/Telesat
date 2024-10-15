@@ -120,8 +120,6 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/88.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/1280px-Logo_Ch%C3%A9rie_25.svg.png" group-title="Live",Chérie 25
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/99.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Live",MaisonEtTravaux
-https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Live",GULLI
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/90.m3u8
@@ -140,7 +138,7 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/115.ts
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/46.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Toonami_Logo_2021.png" group-title="Live",Toonami
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Toonami_Logo_2021.png" group-title="Live",Toonamie
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/125.ts
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG.png" group-title="Live",One Piece
@@ -153,16 +151,12 @@ https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/45.ts
 
 
-#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Live",ADN
-https://jmp2.uk/SamsungTVPlus/FRBD5100001ZA.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20221214T045103SQUARE.png_20221214045104.png" group-title="Live",Jellytoon
 https://i.mjh.nz/SamsungTVPlus/FRBB4600001MQ.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="Live",NTV Afrique
-https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="Live",KTO
@@ -216,61 +210,5 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/96.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/640px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Live",RMC Découverte
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/98.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/640px-CGTN_-_fran%C3%A7ais.png" group-title="Live",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-
-#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/01/10/PlutoTV_Paranormal_Channel_1080x1080_Square2-qnhwyj56.png" group-title="Live",Paranormal
-https://i.mjh.nz/PlutoTV/5f8ed9461b35690007a0bc3a-alt.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="Live",Rakuten TV Films Action 
-https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="Live",Rakuten TV Films Action 
-https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="" group-title="Live",Rakuten Comedy Movies France 
-https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="" group-title="Live",Rakuten Comedy Movies France 
-https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="Live",Rakuten Spotlight France 
-https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="Live",Rakuten Spotlight France 
-https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV BBC Doctor Who France 
-https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://www.mundoplus.tv/wiki/_media/logos/bbcdrama.png" tvg-logo="" group-title="Live",BBC Drama 
-https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV Documentaires
-https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV Documentaires 
-https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV Films Drames 
-https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV Films Drames 
-https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV Films Français 
-https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV Films Thriller 
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Gusto TV
-https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000341O_20240507T094249SQUARE.png" group-title="Live",Rakuten TV Romance 
-https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live",Rakuten TV Romance 
-https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300033GO_20221012T021124SQUARE.png_20221012021125.png" group-title="Live",Rakuten TV Top Films 
-https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300033GO_20221012T021124SQUARE.png_20221012021125.png" group-title="Live",Rakuten TV Top Films 
-https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-
 
 
