@@ -157,7 +157,7 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/45.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="Live",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="Live",Infosport
+#EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="Live",INFOSPORT+
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/96.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",L'Equipe
@@ -190,6 +190,21 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/93.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="Live",Canal+ Foot
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/74098.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4c/Ushuaia_tv.png" group-title="Live",Ushuaïa TV
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/436.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0a/Seasons_logo.png" group-title="Live",Seasons
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2013.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="Live",Planete+
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2015.ts
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/314/810/png-transparent-grand-canyon-village-national-geographic-society-national-geographic-visitor-center-magazine-national-tourism-miscellaneous-text-label-thumbnail.png" group-title="Live",NATIONAL GEOGHAPHIC
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/432.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Live",NATIONAL GEOGHAPHIE WILD
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/433.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
