@@ -34,8 +34,8 @@ https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 http://217.20.112.199/starplushd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d0/04/95/d00495d07bb2f6e0856b9f8b92b9bf20.png" group-title="Live",ZeeTV
-http://103.110.110.11:8081/live/zeetv/chunks.m3u8?nimblesessionid=5420901&_HLS_msn=26386&_HLS_part=1
+#EXTINF:-1 tvg-logo="https://www.corporatepostnews.com/wp-content/uploads/2023/04/Star-Gold-Thrills-Logo-White-BG.png" group-title="Live",StarGold Thrills
+http://103.84.57.155:8000/play/a0c7/58223574.m3u8
 
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
