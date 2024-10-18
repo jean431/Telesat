@@ -52,11 +52,24 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/40.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial9-1984.png" group-title="Live",Canal+
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/17.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="Live",Canal+ box office
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/89850.ts
+
+
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",Canalplay 1
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1882.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",Canalplay 2
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1883.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",Canalplay 3
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1884.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Live",Canal+ Series
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/20.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="Live",Canal+ Kids
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/21.ts
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/47251.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_Cin%C3%A9%2B_Frisson_2011.svg/2560px-Logo_Cin%C3%A9%2B_Frisson_2011.svg.png" group-title="Live",Ciné+ Frisson
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/66409.ts
@@ -72,16 +85,16 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/47250.ts
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/147.m3u8
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/20-204704_logopedia10-teva-hd-png-download.png" group-title="Live",Téva
-https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/146.m3u8
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/407.ts
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/53.ts
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2002.ts
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.webmaster-gratuit.com/pict/direct-tf1films.png" group-title="Live",TF1 Séries Films
-https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/92.m3u8
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/392.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Live",France 2
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/64.m3u8
@@ -203,7 +216,7 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2013.ts
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2015.ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/314/810/png-transparent-grand-canyon-village-national-geographic-society-national-geographic-visitor-center-magazine-national-tourism-miscellaneous-text-label-thumbnail.png" group-title="Live",National Geographic
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/432.ts
+http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/67.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Live",NatGeoWild
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/433.ts
