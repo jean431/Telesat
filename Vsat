@@ -33,10 +33,11 @@ https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/591/520/png-transparent-star-plus-star-india-television-show-television-channel-net.png" group-title="Live",Starplus HD
 http://217.20.112.199/starplushd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/591/520/png-transparent-star-plus-star-india-television-show-television-channel-net.png" group-title="Live",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/8-80870_zee-cinema-channel-logo-hd-png-download.png" group-title="Live",Zee Cinema HD
 http://hogeahai.xyz/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=3ee576c68ced37d75a6879bc76bd4aab
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Live",Zee tv  Hd
+http://hogeahai.xyz/IS_ZE/tracks-v1a1/2024/10/19/14/28/41-06000.ts?token=cee134e7c8640e3dd90b5c4ce8e232d2
 
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
