@@ -33,16 +33,17 @@ https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/591/520/png-transparent-star-plus-star-india-television-show-television-channel-net.png" group-title="Live",Starplus HD
 http://217.20.112.199/starplushd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/8-80870_zee-cinema-channel-logo-hd-png-download.png" group-title="Live",Zee Cinema HD
-http://hogeahai.xyz/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=3ee576c68ced37d75a6879bc76bd4aab
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Live",Colours HD
+http://hogeahai.xyz/IN_CTVS/tracks-v1a1/2024/10/19/17/15/51-05000.ts?token=53329d572736e97d736af7eed6306bdf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Live",Zee tv  Hd
 http://hogeahai.xyz/IS_ZE/tracks-v1a1/mono.m3u8?token=02e4144e1eba22d60aca3a9a71f9d75e
 
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/8-80870_zee-cinema-channel-logo-hd-png-download.png" group-title="Live",Zee Cinema HD
+http://hogeahai.xyz/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=3ee576c68ced37d75a6879bc76bd4aab
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/Logo_R%C3%A9seau_Outre-Mer_premi%C3%A8re1er.png" group-title="Live",Réunion le 1ere
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/95248.ts
