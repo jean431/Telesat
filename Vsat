@@ -91,7 +91,7 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/47250.ts
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/147.m3u8
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/20-204704_logopedia10-teva-hd-png-download.png" group-title="Live",Téva
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/407.ts
+https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/146.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2002.ts
@@ -100,7 +100,7 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2002.ts
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.webmaster-gratuit.com/pict/direct-tf1films.png" group-title="Live",TF1 Séries Films
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/392.ts
+https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/92.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Live",France 2
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/64.m3u8
@@ -168,13 +168,6 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/125.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Game_One_PL.png" group-title="Live",Game One
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/45.ts
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="Live",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
@@ -233,8 +226,7 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Live",France 24
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/807.m3u8
 
-#EXTINF:-1 https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="Live",Lci
-https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/101.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="Live",RMC Story
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/96.m3u8
