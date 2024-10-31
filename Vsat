@@ -19,7 +19,7 @@ https://hls.mbconline.xyz/live/MBC5/index.m3u8
 https://hls.mbconline.xyz/live/education/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title="Live",NOVELAS
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1990.ts
+http://185.209.15.161/1905/tracks-v1a1/mono.m3u8?token=161128324c6ec8808803b4d102a7173f4eab52c9-76e45ff7e1ca19f066383282fc5415f6-1730392326-1730363526-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" group-title="Live",Televisa TeleNovelas
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -59,26 +59,26 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/40.ts
 http://185.209.15.161/1804/tracks-v1a1/mono.m3u8?token=bb2fb07a5e5bea2750e72449e7f43f0405337174-5df497d25c591e36aa6ddf79b1402d88-1730386980-1730358180-105.235.158.136
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="Live",Canal+ box office
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/89850.ts
+http://185.209.15.161/1810/tracks-v1a1/mono.m3u8?token=3c2baab7ba4df936de4332cd296a5fbbddf2b9dc-f646975a0e4b096fa692588200c015a7-1730391889-1730363089-105.235.158.143
 
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",Canalplay 1
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1882.ts
+http://185.209.15.161/1893/tracks-v1a1/mono.m3u8?token=7694ea9e1e02102c061291b2fe6b1b85227217b9-ebfc5277b8cd45bb9f145d927882f655-1730392122-1730363322-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",Canalplay 2
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1883.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",Canalplay 3
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1884.ts
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",canal+ Family
+http://185.209.15.161/1893/tracks-v1a1/mono.m3u8?token=7694ea9e1e02102c061291b2fe6b1b85227217b9-ebfc5277b8cd45bb9f145d927882f655-1730392122-1730363322-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Live",Canal+ Series
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/20.ts
+http://185.209.15.161/1812/tracks-v1a1/mono.m3u8?token=73f44fc5df4120c26591aec42285aa92679252ae-74f60b2830e66b2a9caefde6d5f50854-1730392537-1730363737-102.163.30.145
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="Live",Canal+ Kids
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/47251.ts
+http://185.209.15.161/1814/tracks-v1a1/mono.m3u8?token=600035280006614a8286dc9f7621cc0eff21d78a-9c2823dc23ce138dc94e50f43d6ff30-1730392586-1730363786-102.163.30.145
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_Cin%C3%A9%2B_Frisson_2011.svg/2560px-Logo_Cin%C3%A9%2B_Frisson_2011.svg.png" group-title="Live",Ciné+ Frisson
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/66409.ts
+http://185.209.15.161/1891/tracks-v1a1/mono.m3u8?token=fa95b086738145e1ff2ab3c116d3ecd4c1b8b25c-95fa69c2ed6cb96987a561a0a1792898-1730392265-1730363465-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_de_Cin%C3%A9Cin%C3%A9ma_Famiz.png" group-title="Live",Cine+ Famiz
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/463.ts
@@ -187,10 +187,10 @@ http://185.209.15.161/1807/tracks-v1a1/mono.m3u8?token=3172dbf4666ccd49796e03e45
 http://185.209.15.161/1888/index.m3u8?token=b702517cf94a6dcf481b53f8e15569465c85d31c-e137dc621cd4f1a37e238a95ec380bc0-1730389079-1730360279-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",beIN SPORTS 1
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/163.ts
+http://185.209.15.161/1818/tracks-v1a1/mono.m3u8?token=3080f916f417530c99de39b59af99c6abc525c2c-675731650ef67b04912a75b2b84ffaec-1730392027-1730363227-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Live",beIN SPORTS 2
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/164.ts
+http://185.209.15.161/1819/tracks-v1a1/mono.m3u8?token=d9085307c59415e3478dfefd5fe175ba70f8b72f-f0f19fcf02a2249d6f1f27b1b749a5c0-1730392066-1730363266-105.235.158.143
 
 
 
@@ -205,14 +205,14 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/93.ts
 http://185.209.15.161/1808/tracks-v1a1/mono.m3u8?token=e49abcb59d6a438b0810789a74dd91c8a1f0066f-c8724289d88fcffce98fa4249eec8d65-1730388835-1730360035-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4c/Ushuaia_tv.png" group-title="Live",Ushuaïa TV
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/436.ts
+http://185.209.15.161/1917/tracks-v1a1/mono.m3u8?token=58b1f1f6b9eccc3ccb2acdcda4ef40c337d95151-427cc0d0326889dbdb5e6fa78fafe3d5-1730392857-1730364057-102.163.30.145
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0a/Seasons_logo.png" group-title="Live",Seasons
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2013.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="Live",Planete+
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2015.ts
+http://185.209.15.161/1913/tracks-v1a1/mono.m3u8?token=48cd8d62e63d56267fae0f4a240d3bba8068572a-362e640eab777b54a74929438c93a714-1730392807-1730364007-102.163.30.145
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/314/810/png-transparent-grand-canyon-village-national-geographic-society-national-geographic-visitor-center-magazine-national-tourism-miscellaneous-text-label-thumbnail.png" group-title="Live",National Geographic
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/67.ts
