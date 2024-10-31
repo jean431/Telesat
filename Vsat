@@ -178,13 +178,13 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/96.ts
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/94.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Sport 1
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/74039.ts
+http://185.209.15.161/1809/tracks-v1a1/mono.m3u8?token=5c9a413edf6d6428ef0f88a26a94d9fda3c8ece4-46c855506e55bc761a125100c657ab03-1730388939-1730360139-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="Live",Canal+ Sport 2
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/61623.ts
+http://185.209.15.161/1807/tracks-v1a1/mono.m3u8?token=3172dbf4666ccd49796e03e45cb42a554e8a3f7b-67b2a02009ef6e1696d62bc359c903a5-1730389007-1730360207-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Live",Canal+ Premier League
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/89854.ts
+http://185.209.15.161/1888/index.m3u8?token=b702517cf94a6dcf481b53f8e15569465c85d31c-e137dc621cd4f1a37e238a95ec380bc0-1730389079-1730360279-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",beIN SPORTS 1
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/163.ts
@@ -202,7 +202,7 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/92.ts
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/93.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="Live",Canal+ Foot
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/74098.ts
+http://185.209.15.161/1808/tracks-v1a1/mono.m3u8?token=e49abcb59d6a438b0810789a74dd91c8a1f0066f-c8724289d88fcffce98fa4249eec8d65-1730388835-1730360035-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4c/Ushuaia_tv.png" group-title="Live",Ushuaïa TV
 http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/436.ts
