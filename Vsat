@@ -19,7 +19,7 @@ https://hls.mbconline.xyz/live/MBC5/index.m3u8
 https://hls.mbconline.xyz/live/education/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title="Live",NOVELAS
-http://185.209.15.161/1905/tracks-v1a1/mono.m3u8?token=161128324c6ec8808803b4d102a7173f4eab52c9-76e45ff7e1ca19f066383282fc5415f6-1730392326-1730363526-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/127227.ts
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" group-title="Live",Televisa TeleNovelas
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -50,41 +50,37 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/95248.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Action_Logo.png" group-title="Live",Action
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/36.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127232.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="Live",13ème Rue
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/40.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127201.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial9-1984.png" group-title="Live",Canal+
-http://185.209.15.161/1804/tracks-v1a1/mono.m3u8?token=bb2fb07a5e5bea2750e72449e7f43f0405337174-5df497d25c591e36aa6ddf79b1402d88-1730386980-1730358180-105.235.158.136
+http://www.sansat.net:25461/live/02025976407322/0005730811/659289.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="Live",Canal+ box office
-http://185.209.15.161/1810/tracks-v1a1/mono.m3u8?token=3c2baab7ba4df936de4332cd296a5fbbddf2b9dc-f646975a0e4b096fa692588200c015a7-1730391889-1730363089-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/659296.ts
 
 
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",Canalplay 1
-http://185.209.15.161/1893/tracks-v1a1/mono.m3u8?token=7694ea9e1e02102c061291b2fe6b1b85227217b9-ebfc5277b8cd45bb9f145d927882f655-1730392122-1730363322-105.235.158.143
-
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",Canalplay 2
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1883.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",canal+ Family
 http://185.209.15.161/1893/tracks-v1a1/mono.m3u8?token=7694ea9e1e02102c061291b2fe6b1b85227217b9-ebfc5277b8cd45bb9f145d927882f655-1730392122-1730363322-105.235.158.143
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Live",Canal+ Series
-http://185.209.15.161/1812/tracks-v1a1/mono.m3u8?token=73f44fc5df4120c26591aec42285aa92679252ae-74f60b2830e66b2a9caefde6d5f50854-1730392537-1730363737-102.163.30.145
+http://www.sansat.net:25461/live/02025976407322/0005730811/199966.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="Live",Canal+ Kids
-http://185.209.15.161/1814/tracks-v1a1/mono.m3u8?token=600035280006614a8286dc9f7621cc0eff21d78a-9c2823dc23ce138dc94e50f43d6ff30-1730392586-1730363786-102.163.30.145
+http://www.sansat.net:25461/live/02025976407322/0005730811/659293.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_Cin%C3%A9%2B_Frisson_2011.svg/2560px-Logo_Cin%C3%A9%2B_Frisson_2011.svg.png" group-title="Live",Ciné+ Frisson
-http://185.209.15.161/1891/tracks-v1a1/mono.m3u8?token=fa95b086738145e1ff2ab3c116d3ecd4c1b8b25c-95fa69c2ed6cb96987a561a0a1792898-1730392265-1730363465-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/127216.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_de_Cin%C3%A9Cin%C3%A9ma_Famiz.png" group-title="Live",Cine+ Famiz
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/463.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127258.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_C%2BCIN%C3%89MA%28S%29.jpg/220px-Logo_C%2BCIN%C3%89MA%28S%29.jpg" group-title="Live",Canal+ Cinema
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/47250.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/659295.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_PARIS_PREMIERE.png" group-title="Live",Paris premiére
@@ -94,7 +90,7 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/147.m3u8
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/146.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
-http://185.209.15.161/1903/index.m3u8?token=ded39e25c975bc46d4eadd6f23ce53d34a68c9be-c36e82ce978a57061494be629691ec44-1730385860-1730357060-105.235.158.136
+http://www.sansat.net:25461/live/02025976407322/0005730811/127203.ts
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
@@ -147,16 +143,16 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/90.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="Live",Mangas
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/478.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127159.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Teletoon_2023.png" group-title="Live",Télétoon
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/121.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127153.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Live",Piwi+
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/115.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127152.ts
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/990/7/png-clipart-j-one-japan-television-channel-manga-japan-television-text.png" group-title="Live",J-one
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/46.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127160.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="Live",Warner TV Next
@@ -166,59 +162,59 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/125.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Game_One_PL.png" group-title="Live",Game One
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/45.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127161.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="Live",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="Live",INFOSPORT+
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/96.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/126954.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",L'Equipe
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/94.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Sport 1
-http://185.209.15.161/1809/tracks-v1a1/mono.m3u8?token=5c9a413edf6d6428ef0f88a26a94d9fda3c8ece4-46c855506e55bc761a125100c657ab03-1730388939-1730360139-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/659291.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="Live",Canal+ Sport 2
-http://185.209.15.161/1807/tracks-v1a1/mono.m3u8?token=3172dbf4666ccd49796e03e45cb42a554e8a3f7b-67b2a02009ef6e1696d62bc359c903a5-1730389007-1730360207-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/659303.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Live",Canal+ Premier League
-http://185.209.15.161/1888/index.m3u8?token=b702517cf94a6dcf481b53f8e15569465c85d31c-e137dc621cd4f1a37e238a95ec380bc0-1730389079-1730360279-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/659305.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",beIN SPORTS 1
-http://185.209.15.161/1818/tracks-v1a1/mono.m3u8?token=3080f916f417530c99de39b59af99c6abc525c2c-675731650ef67b04912a75b2b84ffaec-1730392027-1730363227-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/127016.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Live",beIN SPORTS 2
-http://185.209.15.161/1819/tracks-v1a1/mono.m3u8?token=d9085307c59415e3478dfefd5fe175ba70f8b72f-f0f19fcf02a2249d6f1f27b1b749a5c0-1730392066-1730363266-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/127017.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 1
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/92.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127000.ts
 
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 2
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/93.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127001.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="Live",Canal+ Foot
-http://185.209.15.161/1808/tracks-v1a1/mono.m3u8?token=e49abcb59d6a438b0810789a74dd91c8a1f0066f-c8724289d88fcffce98fa4249eec8d65-1730388835-1730360035-105.235.158.143
+http://www.sansat.net:25461/live/02025976407322/0005730811/659299.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4c/Ushuaia_tv.png" group-title="Live",Ushuaïa TV
-http://185.209.15.161/1917/tracks-v1a1/mono.m3u8?token=58b1f1f6b9eccc3ccb2acdcda4ef40c337d95151-427cc0d0326889dbdb5e6fa78fafe3d5-1730392857-1730364057-102.163.30.145
+http://www.sansat.net:25461/live/02025976407322/0005730811/127094.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0a/Seasons_logo.png" group-title="Live",Seasons
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/2013.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127091.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="Live",Planete+
-http://185.209.15.161/1913/tracks-v1a1/mono.m3u8?token=48cd8d62e63d56267fae0f4a240d3bba8068572a-362e640eab777b54a74929438c93a714-1730392807-1730364007-102.163.30.145
+http://www.sansat.net:25461/live/02025976407322/0005730811/127078.ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/314/810/png-transparent-grand-canyon-village-national-geographic-society-national-geographic-visitor-center-magazine-national-tourism-miscellaneous-text-label-thumbnail.png" group-title="Live",National Geographic
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/67.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127081.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Live",NatGeoWild
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/433.ts
+http://www.sansat.net:25461/live/02025976407322/0005730811/127082.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
