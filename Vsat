@@ -19,7 +19,7 @@ https://hls.mbconline.xyz/live/MBC5/index.m3u8
 https://hls.mbconline.xyz/live/education/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Novelas_TV.png" group-title="Live",NOVELAS
-http://www.sansat.net:25461/live/02025976407322/0005730811/127227.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1763.ts
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" group-title="Live",Televisa TeleNovelas
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -31,16 +31,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dc
 https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/591/520/png-transparent-star-plus-star-india-television-show-television-channel-net.png" group-title="Live",Starplus HD
-http://217.20.112.199/starplushd/tracks-v1a1/mono.m3u8
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/7465.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Live",Colors HD
-http://hogeahai.xyz/IN_CTVS/tracks-v1a1/mono.m3u8?token=53329d572736e97d736af7eed6306bdf
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/7478.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Live",Zee tv  Hd
-http://hogeahai.xyz/IS_ZE/tracks-v1a1/mono.m3u8?token=02e4144e1eba22d60aca3a9a71f9d75e
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/7450.ts
 
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/8-80870_zee-cinema-channel-logo-hd-png-download.png" group-title="Live",Zee Cinema HD
-http://hogeahai.xyz/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=3ee576c68ced37d75a6879bc76bd4aab
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/7455.ts
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
@@ -50,37 +50,40 @@ http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/95248.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Action_Logo.png" group-title="Live",Action
-http://www.sansat.net:25461/live/02025976407322/0005730811/127232.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1754.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="Live",13ème Rue
-http://www.sansat.net:25461/live/02025976407322/0005730811/127201.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1684.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial9-1984.png" group-title="Live",Canal+
-http://www.sansat.net:25461/live/02025976407322/0005730811/659289.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1566.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="Live",Canal+ box office
-http://www.sansat.net:25461/live/02025976407322/0005730811/659296.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1569.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/17/22/1/imgbin-logo-canal-d-cal-canalplay-canal-family-others-d3TJuqfBYGUjc2mkNudknk8Kp.jpg" group-title="Live",canal+ Family
-http://185.209.15.161/1893/tracks-v1a1/mono.m3u8?token=7694ea9e1e02102c061291b2fe6b1b85227217b9-ebfc5277b8cd45bb9f145d927882f655-1730392122-1730363322-105.235.158.143
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1593.ts
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Live",Canal+ Series
-http://www.sansat.net:25461/live/02025976407322/0005730811/199966.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1583.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="Live",Canal+ Kids
-http://www.sansat.net:25461/live/02025976407322/0005730811/659293.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1580.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_Cin%C3%A9%2B_Frisson_2011.svg/2560px-Logo_Cin%C3%A9%2B_Frisson_2011.svg.png" group-title="Live",Ciné+ Frisson
-http://www.sansat.net:25461/live/02025976407322/0005730811/127216.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1595.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_de_Cin%C3%A9Cin%C3%A9ma_Famiz.png" group-title="Live",Cine+ Famiz
 http://www.sansat.net:25461/live/02025976407322/0005730811/127258.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_C%2BCIN%C3%89MA%28S%29.jpg/220px-Logo_C%2BCIN%C3%89MA%28S%29.jpg" group-title="Live",Canal+ Cinema
-http://www.sansat.net:25461/live/02025976407322/0005730811/659295.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1576.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_PARIS_PREMIERE.png" group-title="Live",Paris premiére
@@ -90,7 +93,7 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/147.m3u8
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/146.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr-academic.com/pictures/frwiki/82/RTL9logo.png" group-title="Live",Rtl9
-http://www.sansat.net:25461/live/02025976407322/0005730811/127203.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1722.ts
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/62.m3u8
@@ -143,78 +146,78 @@ https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/90.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="Live",Mangas
-http://www.sansat.net:25461/live/02025976407322/0005730811/127159.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1858.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Teletoon_2023.png" group-title="Live",Télétoon
-http://www.sansat.net:25461/live/02025976407322/0005730811/127153.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1825.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="Live",Piwi+
-http://www.sansat.net:25461/live/02025976407322/0005730811/127152.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1823.ts
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/990/7/png-clipart-j-one-japan-television-channel-manga-japan-television-text.png" group-title="Live",J-one
-http://www.sansat.net:25461/live/02025976407322/0005730811/127160.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1760.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png" group-title="Live",Warner TV Next
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/125.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1704.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Game_One_PL.png" group-title="Live",Game One
-http://www.sansat.net:25461/live/02025976407322/0005730811/127161.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1745.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="Live",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static1.ozap.com/articles/1/49/58/91/@/4515546-infosport-article_media_image-1.png" group-title="Live",INFOSPORT+
-http://www.sansat.net:25461/live/02025976407322/0005730811/126954.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1433.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",L'Equipe
 https://accesiptv.com/mU2qjcVU8k/bZGV5sV2d3/94.m3u8
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Sport 1
-http://www.sansat.net:25461/live/02025976407322/0005730811/659291.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1412.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="Live",Canal+ Sport 2
-http://www.sansat.net:25461/live/02025976407322/0005730811/659303.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1578.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Live",Canal+ Premier League
-http://www.sansat.net:25461/live/02025976407322/0005730811/659305.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1428.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Live",beIN SPORTS 1
-http://www.sansat.net:25461/live/02025976407322/0005730811/127016.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1357.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Live",beIN SPORTS 2
-http://www.sansat.net:25461/live/02025976407322/0005730811/127017.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1360.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 1
-http://www.sansat.net:25461/live/02025976407322/0005730811/127000.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1392.ts
 
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",RMC Sport 2
-http://www.sansat.net:25461/live/02025976407322/0005730811/127001.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1395.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Foot%2B_24-24.png" group-title="Live",Canal+ Foot
-http://www.sansat.net:25461/live/02025976407322/0005730811/659299.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1430.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4c/Ushuaia_tv.png" group-title="Live",Ushuaïa TV
-http://www.sansat.net:25461/live/02025976407322/0005730811/127094.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1650.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0a/Seasons_logo.png" group-title="Live",Seasons
-http://www.sansat.net:25461/live/02025976407322/0005730811/127091.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1652.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="Live",Planete+
-http://www.sansat.net:25461/live/02025976407322/0005730811/127078.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1641.ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/314/810/png-transparent-grand-canyon-village-national-geographic-society-national-geographic-visitor-center-magazine-national-tourism-miscellaneous-text-label-thumbnail.png" group-title="Live",National Geographic
-http://www.sansat.net:25461/live/02025976407322/0005730811/127081.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1626.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Live",NatGeoWild
-http://www.sansat.net:25461/live/02025976407322/0005730811/127082.ts
+http://tv.venus4k.store/live/VfDmzJNKz/oZDH2kAY4x/1629.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
