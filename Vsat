@@ -115,6 +115,13 @@ http://familyip.vip/FR_CANALplus/mpegts?token=05c1b212c475b804027f3e43a26f49b8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",Beinsport 1
 http://familyip.vip/FR_BN1/mpegts?token=6ec54df23bed171f451534936691dd3f
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Beinsport 2
+http://familyip.vip/FR_BEFR/mpegts?token=cdfecbc7c047a946767b7189442883c1
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 
