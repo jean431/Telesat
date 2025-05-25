@@ -122,8 +122,8 @@ http://familyip.vip/FR_BN2/mpegts?token=0c40d553dca60eb776819f1652cd1699
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Beinsport 3
 http://familyip.vip/FR_BEFR/mpegts?token=cdfecbc7c047a946767b7189442883c1
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Golf
+http://familyip.vip/FR_GOLF/mpegts?token=258de0064820fc9bd6560559e7e05ba8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
