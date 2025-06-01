@@ -75,16 +75,16 @@ http://familyip.vip/FR_M6HD/tracks-v1a1/mono.m3u8?token=228f5572b8b2997079fbf3fd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="Live",6Ter
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/95.m3u8
+http://familyip.vip/FR_6TerFHD/tracks-v1a1/mono.m3u8?token=eeaa774605399fac066ff7caca3b5746
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="Live",W9
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/76.m3u8
+http://familyip.vip/FR_W9/mpegts?token=ea2721bf204c514f3f7b36c55dfcd1c7
 
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/431/AF4C569E80271706BD68A7E1B83216F8/tfx.png" group-title="Live",TFX
 https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/79.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/2560px-TMC_logo.svg.png" group-title="Live",TMC
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/77.m3u8
+http://familyip.vip/FR_TMC/mpegts?token=0553d4dc19de2890d6bf44317ad6b2a8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="Live",NRJ 12
 https://accesiptv.com/Mzkc5Hm6eq/HYj6954jZZ/81.m3u8
