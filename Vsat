@@ -53,25 +53,25 @@ https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/147.m3u8
 https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/146.m3u8
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/62.m3u8
+http://familyip.vip/FR_TF1HD/mpegts?token=05215f2245c9660ef4237efc9a75f064
 
 #EXTINF:-1 tvg-logo="https://m.webmaster-gratuit.com/pict/direct-tf1films.png" group-title="Live",TF1 Séries Films
 https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/92.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Live",France 2
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/64.m3u8
+http://familyip.vip/FR_FRANCE2HDH/mpegts?token=e2204a6b772cf4e445325faf8d9f62d1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="Live",France 3
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/66.m3u8 
+ http://familyip.vip/FR_FRANCE3HDh/mpegts?token=05e5c8b17494c3e7320cd066fdd4de61
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/France_4_logo_2011.png" group-title="Live",France 4
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/84.m3u8
+http://familyip.vip/FR_FRANCE4HDh/tracks-v1a1/2025/06/01/07/29/16-05120.ts?token=46e5e651d5bad1f025539a286d96ec34
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/France_5_logo_antenne_%282008%29.png" group-title="Live",France 5
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/68.m3u8
+http://familyip.vip/FR_FRANCE5HD/tracks-v1a1/mono.m3u8?token=9a3614d60d983539667d369ea76c642e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="Live",M6
-https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/70.m3u8
+http://familyip.vip/FR_M6HD/tracks-v1a1/mono.m3u8?token=228f5572b8b2997079fbf3fd4ff0a4b3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="Live",6Ter
