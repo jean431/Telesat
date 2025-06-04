@@ -89,6 +89,9 @@ https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/77.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="Live",NRJ 12
 https://accesiptv.com/Mzkc5Hm6eq/HYj6954jZZ/81.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="Live",Trace urban
+https://accesiptv.com/live/Urz6H8ByzM/6fUJmJucTc/238.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/2560px-Logo_projet_CStar.svg.png" group-title="Live",CStar
 https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/88.m3u8
 
