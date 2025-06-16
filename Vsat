@@ -36,14 +36,14 @@ http://familyip.vip/Fr_NOVELASTVHD/mpegts?token=4c778702837aaec2b15ff856146dab24
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Canal+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png" group-title="Live",Canal+
 http://familyip.vip/FR_CANALHD/mpegts?token=a81c270f3d740a75f6b3fdcf3fbf8962
 
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Canal+ Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Canal%2B_Family.png" group-title="Live",Canal+ Family
 http://familyip.vip/FR_CANALCINMA/mpegts?token=bdfdf45343d2fc0ed20ee42bd14550ec
 
 
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Rtl9
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="Live",Rtl9
 http://familyip.vip/FR_RTL9HD/mpegts?token=55f397df4112ee892a065958fa0ca21e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_PARIS_PREMIERE.png" group-title="Live",Paris premiére
