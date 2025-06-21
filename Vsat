@@ -42,6 +42,13 @@ http://familyip.vip/FR_CANALHD/mpegts?token=a81c270f3d740a75f6b3fdcf3fbf8962
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Canal%2B_Family.png" group-title="Live",Canal+ Family
 http://familyip.vip/FR_CANALCINMA/mpegts?token=bdfdf45343d2fc0ed20ee42bd14550ec
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Cin%C3%A9%2B_Famiz_2011.svg/640px-Logo_Cin%C3%A9%2B_Famiz_2011.svg.png" group-title="Live",Cine+ famiz
+http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160308.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/52/2/ab3-2001-2004-logo-png_seeklogo-522971.png" group-title="Live",AB3
+http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160302.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="Live",Rtl9
 http://familyip.vip/FR_RTL9HD/mpegts?token=55f397df4112ee892a065958fa0ca21e
@@ -73,6 +80,8 @@ http://familyip.vip/FR_FRANCE5HD/tracks-v1a1/mono.m3u8?token=33075e66c2884c70ea0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="Live",M6
 http://familyip.vip/FR_M6HD/tracks-v1a1/mono.m3u8?token=7fc79f1e30d76dcd2efc48babd942e91
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/31/2/mcm-logo-png_seeklogo-315138.png" group-title="Live",Mcm
+http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160303.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="Live",6Ter
 http://plus4k.store/live/u23719359913255/p15092140087959/299234.ts
@@ -108,24 +117,27 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",L'Equipe
 https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/94.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",+Foot
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Live",+Foot
 http://familyip.vip/FR_FOOT24HD/mpegts?token=1a67a5ef3bb3ab6cb9397255a085c5b9
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",Canal+ Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Sport
 http://familyip.vip/FR_CANALplus/mpegts?token=05c1b212c475b804027f3e43a26f49b8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",Beinsport 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/09/canal-plus-sport-360.png" group-title="Live",×360
+http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160306.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_beIN_SPORTS_1.png/1200px-Logo_beIN_SPORTS_1.png" group-title="Live",Beinsport 1
 http://familyip.vip/FR_BN1/mpegts?token=6ec54df23bed171f451534936691dd3f
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Beinsport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="Live",Beinsport 2
 http://familyip.vip/FR_BN2/mpegts?token=0c40d553dca60eb776819f1652cd1699
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Beinsport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png" group-title="Live",Beinsport 3
 http://familyip.vip/FR_BEFR/mpegts?token=cdfecbc7c047a946767b7189442883c1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Golf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Canal%2B_Golf.svg/2560px-Canal%2B_Golf.svg.png" group-title="Live",Canal+ Golf
 http://familyip.vip/FR_GOLF/mpegts?token=258de0064820fc9bd6560559e7e05ba8
 
 
