@@ -117,14 +117,14 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Live",L'Equipe
 https://accesiptv.com/Urz6H8ByzM/6fUJmJucTc/94.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Live",+Foot
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Live",Canal+ Foot
 http://familyip.vip/FR_FOOT24HD/mpegts?token=1a67a5ef3bb3ab6cb9397255a085c5b9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Canal%2B_Sport_HD_Logo_2013.png" group-title="Live",Canal+ Sport
 http://familyip.vip/FR_CANALplus/mpegts?token=05c1b212c475b804027f3e43a26f49b8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/09/canal-plus-sport-360.png" group-title="Live",×360
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sport-tv.org/wp-content/uploads/2022/09/canal-plus-sport-360.png" group-title="Live",Canal+ sport360
 http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160306.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_beIN_SPORTS_1.png/1200px-Logo_beIN_SPORTS_1.png" group-title="Live",Beinsport 1
