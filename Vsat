@@ -52,7 +52,7 @@ http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160302.ts
 http://familyip.vip/FR_RTL9HD/mpegts?token=55f397df4112ee892a065958fa0ca21e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_PARIS_PREMIERE.png" group-title="Live",Paris premiére
-http://plus4k.store/live/u23719359913255/p15092140087959/299276.ts
+http://familyip.vip/FR_FRANCE4HDh/tracks-v1a1/mono.m3u8?token=4744967ebdda6202cfff817442bfd2dd
 
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/20-204704_logopedia10-teva-hd-png-download.png" group-title="Live",Téva
 http://plus4k.store/live/u23719359913255/p15092140087959/299248.ts
@@ -70,7 +70,7 @@ http://familyip.vip/FR_FRANCE2HDH/mpegts?token=75bd8caeb76943f42280ac5a47948805
  http://familyip.vip/FR_FRANCE3HDh/mpegts?token=db18ad7ba17891e45584fbfbbcd6fe0d
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/France_4_logo_2011.png" group-title="Live",France 4
-http://familyip.vip/FR_FRANCE4HDh/tracks-v1a1/mono.m3u8?token=4744967ebdda6202cfff817442bfd2dd
+http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160299.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/France_5_logo_antenne_%282008%29.png" group-title="Live",France 5
 http://familyip.vip/FR_FRANCE5HD/tracks-v1a1/mono.m3u8?token=33075e66c2884c70ea077184a7f98314
