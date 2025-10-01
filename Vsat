@@ -139,6 +139,12 @@ http://familyip.vip/FR_BEFR/mpegts?token=cdfecbc7c047a946767b7189442883c1
 http://familyip.vip/FR_GOLF/mpegts?token=258de0064820fc9bd6560559e7e05ba8
 
 
+#EXTINF:-1 tvg-logo=" https://ia800804.us.archive.org/5/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="Live",Sky football
+http://vad7.secsoc.cc:8080/hls/06f273f0612f0b438a3206c7f9056363/175170_250.ts
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 
