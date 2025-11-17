@@ -29,7 +29,7 @@ https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="Live",Novelas Tv
-http://familyip.vip/Fr_NOVELASTVHD/mpegts?token=4c778702837aaec2b15ff856146dab24
+http://thksmom.shop/Fr_NOVELASTVHD/mpegts?token=0f9fc6912171e2d33aca6a2742238b06
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
@@ -64,16 +64,17 @@ http://familyip.vip/FR_TF1HD/mpegts?token=b2dd84f975b674a62fe694e223a9dfe6
 http://plus4k.store/live/u23719359913255/p15092140087959/299249.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Live",France 2
-http://familyip.vip/FR_FRANCE2HDH/mpegts?token=75bd8caeb76943f42280ac5a47948805
+http://thksmom.shop/FR_FRANCE2HDH/mpegts?token=1d82a502f3918145cf4add28aaf02647
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="Live",France 3
- http://familyip.vip/FR_FRANCE3HDh/mpegts?token=db18ad7ba17891e45584fbfbbcd6fe0d
+http://thksmom.shop/FR_FRANCE3HDh/mpegts?token=5b4661671136c159cb9bcbad57b5e8b6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/France_4_logo_2011.png" group-title="Live",France 4
-http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160299.ts
+http://thksmom.shop/FR_FRANCE4HDh/index.m3u8?token=9570f373d5bd34000f7fdd5b3b72e5bf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/France_5_logo_antenne_%282008%29.png" group-title="Live",France 5
-http://familyip.vip/FR_FRANCE5HD/tracks-v1a1/mono.m3u8?token=33075e66c2884c70ea077184a7f98314
+http://thksmom.shop/FR_FRANCE5HD/index.m3u8?token=24c3550ac24f3a9ed20ae743b3be0940
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="Live",M6
 http://familyip.vip/FR_M6HD/tracks-v1a1/mono.m3u8?token=7fc79f1e30d76dcd2efc48babd942e91
@@ -82,7 +83,7 @@ http://familyip.vip/FR_M6HD/tracks-v1a1/mono.m3u8?token=7fc79f1e30d76dcd2efc48ba
 http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160303.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="Live",6Ter
-http://plus4k.store/live/u23719359913255/p15092140087959/299234.ts
+p15092140087959/299234.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="Live",W9
 http://plus4k.store/live/u23719359913255/p15092140087959/299236.ts
