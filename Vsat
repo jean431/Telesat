@@ -1,22 +1,19 @@
 #EXTM3U:-1 x-tvg-url="https://i.mjh.nz/SamsungTVPlus/fr.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv.xml,https://xmltvfr.fr/xmltv/xmltv_fr,https://iptv-epg.org/files/epg-fr.xml.gz,https://iptv-epg.org/files/epg-fr.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Live",MBC1
-https://hls.mbconline.xyz/live/MBC1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/248/17/png-transparent-mbc-1-mauritius-broadcasting-corporation-television-channel-others-television-angle-text-thumbnail.png" group-title="Live",MBC 2
-https://hls.mbconline.xyz/live/MBC2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="Live",MBC 3
-https://hls.mbconline.xyz/live/MBC3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MBC_Digital_4_July_2015_Logo.png" group-title="Live",MBC 4
-https://hls.mbconline.xyz/live/BTV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZVTUWTqK8NA/hqdefault_live.jpg" group-title="Live",MBC 5
-https://hls.mbconline.xyz/live/MBC5/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/TiVi5_monde.png" group-title="Live",Tivi 5
-https://hls.mbconline.xyz/live/education/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc1.png", MBC 1
+https://vod.mbcplay.tv/hls/MBC1/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc2.png", MBC 2
+https://vod.mbcplay.tv/hls/MBC2/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tangymc/mbcchannels/main/logos/tvchannels/mbc3.png", MBC 3
+https://vod.mbcplay.tv/hls/MBC3/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc4.png", MBC 4
+https://vod.mbcplay.tv/hls/MBC4/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc5.png", MBC 5
+https://vod.mbcplay.tv/hls/MBC5/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc17.png", MBC 17
+https://vod.mbcplay.tv/hls/education/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbcsat.png", MBC SAT
+https://vod.mbcplay.tv/hls/MBCSAT
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" group-title="Live",Televisa TeleNovelas
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
