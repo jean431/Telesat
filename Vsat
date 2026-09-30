@@ -40,123 +40,64 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dc
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20220810T012631SQUARE.png_20220810012632.png" group-title="Live",Fréquence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="Live",Novelas Tv
-http://thksmom.shop/Fr_NOVELASTVHD/mpegts?token=0f9fc6912171e2d33aca6a2742238b06
-
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="Live",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png" group-title="Live",Canal+
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-BzjucPmbEgBd1DbA-s2JAbvlqKKoM2vwCd2gVrWQRYmBkxIC4uGHtpRkV3u9YFDz7mE8qUgIet99_mxKB5NwEplDY5kkISth2Ws1ayYV5U7czZoTcKBp1Z9RMgQTekrLrTwaYWq4PjP2PAFl7MBCNfrSi35tlNBvwxT8r8FPUSPgBBKkFOfgN1z1aw_hMOA9GJX1ydWwEloW_4fXW_RRukrqIP7OfTOsI5WN2Qxow1ON4A4iei0OYzRF2KE0nEEcyzmE6Mf5yhAV2NHbYubMg/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Canal%2B_Family.png" group-title="Live",Canal+ Family
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/YOXf7UeybJr7twtFlYgcSBFMLEBwa4FQLi8zVs47ul31-Rj1Bx_K-7aop0H5Igi3rrlpo11Sgoad6SO4-uV3rRgiNI5HmIPFpXvBsAL6wNsG6LmPiExUCwoNFGPKd_QxTZSdGgAzOCTnYjnqaOI_B9nF0TxZgPjae6Le6OofUvsKIUpOn5RfTBDIVuzoioUTYqv8BN_LFKi4AKqxN68C1Ls2OzxFm01X2EDCRSdpri8sDryygx8jGx2W_FhHADIYp6wd0MfHMtAxJP5roW1fEA/hls/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Cin%C3%A9%2B_Famiz_2011.svg/640px-Logo_Cin%C3%A9%2B_Famiz_2011.svg.png" group-title="Live",Cine+ famiz
-http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160308.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/52/2/ab3-2001-2004-logo-png_seeklogo-522971.png" group-title="Live",AB3
-http://1tv41.icu:8080/live/2502631006/PDAKJ7KRVR/160302.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="Live",Rtl9
-http://familyip.vip/FR_RTL9HD/mpegts?token=55f397df4112ee892a065958fa0ca21e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_PARIS_PREMIERE.png" group-title="Live",Paris premiére
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIQXJ8pQdYiDmMM9MX6FKZ0Q/m3u8
 
-
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/20-204704_logopedia10-teva-hd-png-download.png" group-title="Live",Téva
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIZJbaD4xYvLkuuN7rGF8xY-c/m3u8
 
-
-
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Live",TF1
-http://familyip.vip/FR_TF1HD/mpegts?token=b2dd84f975b674a62fe694e223a9dfe6
+https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxISsfcBQMUxoVbx0lFlssVf0/m3u8
 
 #EXTINF:-1 tvg-logo="https://m.webmaster-gratuit.com/pict/direct-tf1films.png" group-title="Live",TF1 Séries Films
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIevSnrRy9XZW7I_Z8RpgvLg/m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Live",France 2
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIbsW5CyGfP2XGSA_z1wcaHE/m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="Live",France 3
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIYOvMY1gRfjPDUdq2xobwSo/m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/France_4_logo_2011.png" group-title="Live",France 4
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIV7LPdpo6y6pmnzSn3eRiuk/m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/France_5_logo_antenne_%282008%29.png" group-title="Live",France 5
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIWevwXfw4ch3vZNVF63PT1M/m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="Live",M6
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIUHvtY7ZOIAESiRjMtrAJHI/m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="Live",6Ter
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxITpLZB8R9mgg0KOMftohNoQ/m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="Live",W9
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIVGF9Y0DouDepyLboAy6nJo/m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/2560px-Logo_projet_CStar.svg.png" group-title="Live",CStar
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIbYWDY4yggWIhNg3as8oXow/m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/1280px-Logo_Ch%C3%A9rie_25.svg.png" group-title="Live",Chérie 25
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIV6NNApN6B7UlwfrcjFwruE/m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Live",GULLI
 https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIWxHyy7Q_g6QaCWQN20WI30/m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="Live",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Live",Euronews
-https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIWtc_xlS3Um04rbqJ_V0wvY/m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="Live",France 24
-https://accesiptv.com/Mzkc5Hm6eq/HYj6954jZZ/807.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="Live",RMC Story
-https://accesiptv.com/Mzkc5Hm6eq/HYj6954jZZ/96.m3u8
+https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIVI61bXwmClwQPODSfTj7qs/m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/640px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Live",RMC Découverte
-https://accesiptv.com/Mzkc5Hm6eq/HYj6954jZZ/98.m3u8
+https://accesiptv.com/play/h_gqSryZJ8QbI3lpF1ZxIWx1qxw5BhCLaoVV7t6919I/m3u8
+
+
+
 
 
